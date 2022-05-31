@@ -1,0 +1,8 @@
+1 Franta
+2 Franta
+3 Germania
+4 Italia
+5 Anglia
+6 Germania
+7 Italia
+8 Islanda
